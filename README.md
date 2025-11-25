@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi — I’m Justine Carl A. Aparehado 👋
 
-<!--
-**justinecarlaparehado21-create/justinecarlaparehado21-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- B.S. in Information Technology — New Era University 
 
-Here are some ideas to get you started:
+## Certifications
+- SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](https://courses.cognitiveclass.ai/certificates/669bbdecb1434dc980e7f3e158ad8882)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillsets
+- HTML
+- CSS
+- SQL
+- DB2
+- GitHub
