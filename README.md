@@ -12,3 +12,4 @@
 - SQL
 - DB2
 - GitHub
+- Ui/UX Design(Figma)
