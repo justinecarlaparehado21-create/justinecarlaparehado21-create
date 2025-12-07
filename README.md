@@ -3,7 +3,6 @@
 ##🎓 Education
 Bachelor of Science in Information Technology
 📍 New Era University
-________________________________________
 
 ## 📜 Certifications
 - SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](https://courses.cognitiveclass.ai/certificates/669bbdecb1434dc980e7f3e158ad8882)
