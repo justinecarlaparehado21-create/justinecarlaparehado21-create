@@ -1,6 +1,8 @@
 # Hi — I’m Justine Carl A. Aparehado 👋
 
-##🎓 Education
+
+
+## 🎓Education
 - Bachelor of Science in Information Technology
 📍 New Era University
 
