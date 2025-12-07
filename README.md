@@ -26,12 +26,22 @@
 
 
 ## 🛠️ Skillsets
-🌐 Web Development
- 
-🗄️ Databases
- 
-🧩 Tools & Design
 
+
+### 🌐 Web
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge\&logo=mysql)
+![DB2](https://img.shields.io/badge/DB2-darkblue?style=for-the-badge)
+
+### 🎨 Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge\&logo=figma)
 
 <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
 
