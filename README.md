@@ -1,4 +1,16 @@
-# Hi — I’m Justine Carl A. Aparehado 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Justine+Carl+A.+Aparehado+%F0%9F%91%8B;BS+IT+Student" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Database-purple?style=flat-square"/>
+
+</div>
+
+
+# Hi — I’m Justine Carl A. Aparehado 
 
 
 <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/b2e7fdf3-cc6e-454c-911c-3a768b9f0bcc" />
