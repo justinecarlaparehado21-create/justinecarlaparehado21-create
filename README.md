@@ -23,10 +23,13 @@ Bachelor of Science in Information Technology
  
 🧩 Tools & Design
  
- ________________________________________
+
 🚀 What I'm Currently Learning
-•	Advanced SQL Queries
-•	Cloud Computing with Oracle
-•	UI/UX Systems Design
-•	GitHub Collaboration & Version Control
+- Advanced SQL Queries
+- Cloud Computing with Oracle
+- UI/UX Systems Design
+- GitHub Collaboration & Version Control
+
+
+
 
