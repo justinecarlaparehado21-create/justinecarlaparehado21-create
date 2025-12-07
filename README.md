@@ -1,12 +1,15 @@
 # Hi — I’m Justine Carl A. Aparehado 👋
 
 
+<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/b2e7fdf3-cc6e-454c-911c-3a768b9f0bcc" />
+
 
 ## 🎓Education
 - Bachelor of Science in Information Technology
 
 📍 New Era University
 
+<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/66a7359d-9752-4038-88db-230f461630de" />
 
 
 ## 📜 Certifications
@@ -17,9 +20,11 @@
 - ✅Oracle Data Platform 2025 Certified Foundations Associate —
 [Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=956C309DBDF9A0E9797337DF5FCF9A0F5E3DF888933FCC9AAE35F68EC431A0DF)
 
+<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
 
 
 ## 🛠️ Skillsets
+
 🌐 Web Development
  
 🗄️ Databases
@@ -27,7 +32,8 @@
 🧩 Tools & Design
  
 
-🚀 What I'm Currently Learning
+## 🚀 What I'm Currently Learning
+
 - Advanced SQL Queries
 - Cloud Computing with Oracle
 - UI/UX Systems Design
