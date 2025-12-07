@@ -31,7 +31,10 @@
 🗄️ Databases
  
 🧩 Tools & Design
- 
+
+
+<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
+
 
 ## 🚀 What I'm Currently Learning
 
