@@ -43,16 +43,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge\&logo=figma)
 
-<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
-
-
-## 🚀 What I'm Currently Learning
-
-
-- Advanced SQL Queries
-- Cloud Computing with Oracle
-- UI/UX Systems Design
-- GitHub Collaboration & Version Control
 
 
 
