@@ -32,6 +32,8 @@
 [Certificate Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7F98FFEDDD8A2318C5CC1B5B1845DE4D29C8D2BF3D29FE41A80842E9072B9E32)
 - ✅Oracle Data Platform 2025 Certified Foundations Associate —
 [Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=956C309DBDF9A0E9797337DF5FCF9A0F5E3DF888933FCC9AAE35F68EC431A0DF)
+- ✅Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate —
+[Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1479ECCA0DDFEA66E6CD70911C48CA04218B714C6786FEEE57F66C10C9F69CF9)
 
 
 <img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
