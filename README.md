@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Juan Dela Cruz
 
 ## 🚀 About Me
-I am **Juan Dela Cruz**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
+I am **Justine Carl A. Aparehado**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
 ---
 
 ## 🎓 Education
 **Bachelor of Science in Information Technology**  
 📍 New Era University  
-🗓️ 2021 - Present
+🗓️ 2026 - Present
 
 ---
 
@@ -43,7 +43,7 @@ I am **Juan Dela Cruz**, with a flair for coding and database management skills.
 ---
 
 ## 📊 GitHub Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
+![Justine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
