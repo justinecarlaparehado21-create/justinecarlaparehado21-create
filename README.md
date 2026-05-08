@@ -38,7 +38,7 @@ I am **Juan Dela Cruz**, with a flair for coding and database management skills.
 
 ## 📫 Connect with Me
 - 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/justine-carl-a-aparehado-04579a397/)
-- 📧 Email: juandelacruz@gmail.com
+- 📧 Email: justinecarlaparehado21@gmail.com
 
 ---
 
