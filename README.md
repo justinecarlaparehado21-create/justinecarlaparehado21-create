@@ -1,63 +1,54 @@
-<div align="center">
+# Hi there 👋, I'm Juan Dela Cruz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Justine+Carl+A.+Aparehado+%F0%9F%91%8B;BS+IT+Student" />
+## 🚀 About Me
+I am **Juan Dela Cruz**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Database-purple?style=flat-square"/>
+## 🎓 Education
+**Bachelor of Science in Information Technology**  
+📍 New Era University  
+🗓️ 2021 - Present
 
-</div>
-
-
-# Hi — I’m Justine Carl A. Aparehado 
-
-
-<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/b2e7fdf3-cc6e-454c-911c-3a768b9f0bcc" />
-
-
-## 🎓Education
-- Bachelor of Science in Information Technology
-
-📍 New Era University
-
-
-<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/66a7359d-9752-4038-88db-230f461630de" />
-
+---
 
 ## 📜 Certifications
-- ✅SQL and Relational Databases 101 — CognitiveClass.ai —
-[Certificate Link](https://courses.cognitiveclass.ai/certificates/669bbdecb1434dc980e7f3e158ad8882)
-- ✅Oracle Cloud Infrastructure 2025 Certified Foundations Associate —
-[Certificate Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7F98FFEDDD8A2318C5CC1B5B1845DE4D29C8D2BF3D29FE41A80842E9072B9E32)
-- ✅Oracle Data Platform 2025 Certified Foundations Associate —
-[Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=956C309DBDF9A0E9797337DF5FCF9A0F5E3DF888933FCC9AAE35F68EC431A0DF)
-- ✅Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate —
-[Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1479ECCA0DDFEA66E6CD70911C48CA04218B714C6786FEEE57F66C10C9F69CF9)
+- ✅ NoSQL and DBaaS 101
+- ✅ Oracle Cloud Data Management 2023 Certified Foundations Associate
+- ✅ Oracle Cloud Infrastructure 2023 Certified Foundations Associate
 
+---
 
-<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/c99477f5-3c91-4cae-af36-9a066e867ef4" />
+## 💻 Skill Sets
 
+### 🖥️ Programming Languages
+- Java
+- JavaScript
 
-## 🛠️ Skillsets
+### 🗄️ Databases
+- IBM DB2 Cloud
 
+### 🛠️ Tools & Technologies
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
 
-### 🌐 Web
+---
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+## 📫 Connect with Me
+- 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/justine-carl-a-aparehado-04579a397/)
+- 📧 Email: juandelacruz@gmail.com
 
-### 🗄️ Database
+---
 
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge\&logo=mysql)
-![DB2](https://img.shields.io/badge/DB2-darkblue?style=for-the-badge)
+## 📊 GitHub Stats
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
 
-### 🎨 Tools
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge\&logo=figma)
+---
 
-
-
-
-
+## ✨ Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
