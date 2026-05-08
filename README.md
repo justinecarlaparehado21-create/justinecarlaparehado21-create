@@ -40,13 +40,6 @@ I am **Justine Carl A. Aparehado**, with a flair for coding and database managem
 - 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/justine-carl-a-aparehado-04579a397/)
 - 📧 Email: justinecarlaparehado21@gmail.com
 
----
-
-## 📊 GitHub Stats
-![Justine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
 
 ---
 
