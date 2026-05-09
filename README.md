@@ -16,9 +16,9 @@ I am **Justine Carl A. Aparehado**, with a flair for coding and database managem
 - ✅ NoSQL and DBaaS 101
 [Certificate Link](https://courses.cognitiveclass.ai/certificates/a9f054266df94335928790172171e3aa)
 - ✅ Oracle Cloud Data Management 2023 Certified Foundations Associate
-[Certificate Link]()
+[Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=956C309DBDF9A0E9797337DF5FCF9A0F5E3DF888933FCC9AAE35F68EC431A0DF)
 - ✅ Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-[Certificate Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7F98FFEDDD8A2318C5CC1B5B1845DE4D29C8D2BF3D29FE41A80842E9072B9E32)
+[Certificate Link]()
 
 ---
 
