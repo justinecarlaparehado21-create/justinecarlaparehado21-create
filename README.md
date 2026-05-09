@@ -18,7 +18,7 @@ I am **Justine Carl A. Aparehado**, with a flair for coding and database managem
 - ✅ Oracle Cloud Data Management 2023 Certified Foundations Associate
 [Certificate Link]()
 - ✅ Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-[Certificate Link](https://courses.cognitiveclass.ai/certificates/a9f054266df94335928790172171e3aa)
+[Certificate Link]()
 
 ---
 
