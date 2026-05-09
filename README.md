@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Juan Dela Cruz
+# Hi there 👋, I'm Justine Carl A. Aparehado
 
 ## 🚀 About Me
 I am **Justine Carl A. Aparehado**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
